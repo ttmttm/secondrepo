@@ -1,2 +1,7 @@
 # secondrepo
-this is a test read me file
+this is a read me file
+content 
+   - win8 issues
+   - spark learning
+   - 
+   
