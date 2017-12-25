@@ -1,0 +1,8 @@
+Version used - spark-2.2.1-bin-hadoop2.7  
+setup env path variables 
+    - Java_home
+    - Hadoop home
+    - place winutils(64 bit version) in hadoop home bin directory
+    - optional - install python
+    
+ 
