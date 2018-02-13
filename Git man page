@@ -1,0 +1,9 @@
+
+Eclipse - Exclude root directory from git repository?
+
+answer is It is POSSIBLE with EGIT + M2E
+trick is when doing share project -> in the configure git repo window
+making sure use or create repository in parent folder of project is ticked
+and making sure click create repository button
+the main aim of this is to create the .git folder in you project root
+not above your project root.
